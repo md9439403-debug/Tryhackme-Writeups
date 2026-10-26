@@ -1,6 +1,6 @@
 # Tryhackme
 
-# 🐚 TryHackMe: Bash Scripting
+# TryHackMe: Bash Scripting
 
 **Date:** 25-10-2026
 **Room Link:** [https://tryhackme.com/room/bashscripting](https://tryhackme.com/room/bashscripting)
